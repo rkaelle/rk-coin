@@ -63,7 +63,7 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./rkcoin-qt_test
     
-Additionally, commands to operate and use coin once loaded consist of 
+Additionally, commands to operate and use the network consist of 
 
     cd desktop/rkcoin 
     qmake
