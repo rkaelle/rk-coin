@@ -1,8 +1,8 @@
 Rkcoin integration/staging tree                                                              
 ================================
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="https://drive.google.com/uc?export=view&id=1HHf5UcRDp1b5If_NdkXX-JyPAZ6DcRxj" width="350" alt="accessibility text">
+  <img src="your_relative_path_here" width="128" title="hover text">
+  <img src="https://drive.google.com/uc?export=view&id=1HHf5UcRDp1b5If_NdkXX-JyPAZ6DcRxj" width="128" alt="accessibility text">
 </p>
 Copyright (c) 2009-2014 Bitcoin Developers
 
