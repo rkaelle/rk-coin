@@ -13,13 +13,9 @@ Rkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
  - subsidy halves in 420k blocks (~4 years)
  - ~42 million total coins
-
-The rest is the same as Bitcoin.
  - 25 coins per block
 
 
-For more information, as well as an immediately useable, binary version of
-the Rkcoin client sofware, see http://www.rkcoin.org.
 
 
 Development process
