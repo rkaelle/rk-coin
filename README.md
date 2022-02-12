@@ -1,4 +1,4 @@
-Rkcoin integration/staging tree ![alt text](https://drive.google.com/file/d/1Xu2l3vWiL1CjAVTj3s3NoOo0BYJ2Sy7x/view?usp=sharing)
+Rkcoin integration/staging tree ![alt text](https://drive.google.com/uc?export=view&id=1Xu2l3vWiL1CjAVTj3s3NoOo0BYJ2Sy7x)
 ================================
 
 
