@@ -1,6 +1,6 @@
 Rkcoin integration/staging tree 
 ================================
-                                                                                                                              ![alt text](https://drive.google.com/uc?export=view&id=1HHf5UcRDp1b5If_NdkXX-JyPAZ6DcRxj)
+![alt text](https://drive.google.com/uc?export=view&id=1HHf5UcRDp1b5If_NdkXX-JyPAZ6DcRxj)
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
